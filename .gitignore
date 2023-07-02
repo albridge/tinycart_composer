@@ -1,0 +1,5 @@
+/A.php
+/B.php
+/vendor/*
+/.env
+conn_sample.php

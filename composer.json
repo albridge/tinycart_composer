@@ -1,0 +1,19 @@
+{
+    "name": "tinycart/taire",
+    "description": "simple php shopping cart for oop practice",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Taire Stephen",
+            "email": "tairestephen@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
